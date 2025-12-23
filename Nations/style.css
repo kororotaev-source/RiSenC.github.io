@@ -1,3 +1,5 @@
+ 
+
 h1 {
     margin: 0;
 } 
@@ -48,6 +50,8 @@ h1 {
 
 .rank {
     border-bottom: white solid 1px;
+    width: 70%;
+    margin: auto;
 }
 
 .tank_sell {
